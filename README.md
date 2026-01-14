@@ -1,4 +1,4 @@
-# Ideal-Gym-with-Django
+# Ideal-Gym-with-Django 
 
 ## Output
 https://github.com/user-attachments/assets/0e2fcee2-1e1d-438c-9ed7-c49fbf1e1471
